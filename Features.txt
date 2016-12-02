@@ -1,0 +1,14 @@
+General Information
+1. Database: sqlite
+2. Java Swing libraby has been used
+
+
+Features:
+
+1. Two types of User. Admin/Manager and Salesman. 
+2. Admin can insert,update,delete the products.
+3. Admin can create user account. Admin has all the access.
+4. Salesman Can only sale the products and see the sales.
+5. Admin can see all the sales. He can also search by product category,
+   product name, date, date interval and by any keyword.
+     
